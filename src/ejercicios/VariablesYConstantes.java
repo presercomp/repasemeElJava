@@ -25,7 +25,8 @@ public class VariablesYConstantes {
     
     */
     // Datos no privitivos o Clases
-    // Son todos aquellos que requieren de una libreria para ser usado
+    // Son todos aquellos que requieren de una libreria o una clase
+    // para ser usado
     /*
     String
     Scanner
@@ -42,7 +43,7 @@ public class VariablesYConstantes {
         */
         byte edad; //Declaro una variable, llamada edad, de tipo entero byte
         short anho = 2020; 
-        //Declaro una variable llamada edad, tipo entero short, y le asigno un valor
+        //Declaro una variable llamada anho, tipo entero short, y le asigno un valor
         anho = 1999;
 
         String nombre = "OlaKeAze";
